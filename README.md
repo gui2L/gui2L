@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is Guillaume - Currently student engineer at *Centrale Méditerranée*, I focus on software development, information systems and music industry.
+This is Guillaume - Currently student engineer at *Centrale Méditerranée*, I focus on software development, information systems, music and game industry.
 
 **Ongoing projects :** 
 - [***WaveSense***] Developing a web-based project management tool for music producers designed to streamline collaboration, 
